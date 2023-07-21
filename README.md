@@ -1,8 +1,12 @@
-# Natours Website
+<h1 align="center">Natours Website</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css&perline=3)](https://skillicons.dev)
+<h2 align="center">Project made using advanced CSS techniques</h2>
 
-Project made using advanced CSS techniques
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css" />
+  </a>
+</p>
 
 Classes here:
 
