@@ -3,7 +3,7 @@
 <h2 align="center">Project made using advanced CSS techniques</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css" alt="Dev icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass" alt="Dev icons" />
 </p>
 
 <p align="center">
